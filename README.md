@@ -2,17 +2,20 @@
 
 ## Multi-view images by ourselves
 - Motion parallax
-下兩圖為書桌角落，並以中間的書本以及盒玩作為中心來拍攝。
+
+    下兩圖為書桌角落，並以中間的書本以及盒玩作為中心來拍攝。
 利用輕微調整相機視角，使第一張的視角偏左側，而第二張較為右側。
 ![](https://i.imgur.com/TGOa4Tw.jpg)
 ![](https://i.imgur.com/BLKZEB5.jpg)
 
 - Stop motion
-下圖是請model維持相同姿勢不動，而攝影者繞著人物拍攝的圖像。
+
+    下圖是請model維持相同姿勢不動，而攝影者繞著人物拍攝的圖像。
 ![](https://i.imgur.com/AJexvsL.jpg)
 
 - Live photo
-下方為背景不動，而人物自行旋轉的連拍圖像。
+
+    下方為背景不動，而人物自行旋轉的連拍圖像。
 ![](https://i.imgur.com/14scj0s.jpg)
 
 ## Image alignment results
